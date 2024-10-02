@@ -6,8 +6,9 @@
     - Fabric Language Kotlin
     - libIPN
 - Mouse Tweaks
-- Simple Discord RPC
-    - CraterLib
+- Simple Discord Rich Presence
+    - Architectury API
+    - Cloth Config API
 - Xaero's World Map
     - Xaero's Minimap (Fair-play Edition)
 - AppleSkin

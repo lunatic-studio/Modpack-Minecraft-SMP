@@ -1,0 +1,17 @@
+{
+  "clientId": 917740092859248690,
+  "enabled": true,
+  "screenEvent": true,
+  "clientJoinEvent": true,
+  "logState": false,
+  "buttons": [
+    {
+      "label": "Discord",
+      "url": "https://discord.gg/KGh5FbKUEz"
+    },
+    {
+      "label": "Informations",
+      "url": "https://wikimc.lunaticstudio.fr/faq"
+    }
+  ]
+}
