@@ -1,0 +1,4 @@
+config/defaultoptions/servers.dat
+config/defaultoptions/keybindings.txt
+config/defaultoptions/options.txt
+mods/advancementinforeloaded-0.4.2-1.21.jar
