@@ -36,3 +36,5 @@
 - Sodium Extra
     - Sodium
 - Simple Voice Chat
+- Chest Tracker
+    -YetAnotherConfigLib

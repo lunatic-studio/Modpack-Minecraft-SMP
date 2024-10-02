@@ -11,6 +11,8 @@
 
 /minecraft/.cache/
 /minecraft/.fabric/
+/minecraft/.mixin.out/
+/minecraft/chesttracker/
 /minecraft/data/
 /minecraft/downloads/
 /minecraft/logs/
@@ -26,6 +28,7 @@
 /minecraft/xaero/
 /minecraft/XaeroWaypoints/
 /minecraft/XaeroWaypoints_*/
+/minecraft/command_history.txt
 /minecraft/icon.png
 /minecraft/knownkeys.txt
 /minecraft/options.txt
