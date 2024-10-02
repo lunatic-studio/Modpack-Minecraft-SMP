@@ -1,2 +1,37 @@
-# Modpack-Minecraft-SMP
-Modpack to give players the best experience in LUNATIC Minecraft SMP.
+# Modslits
+
+## All mods are dependent on the Fabric API mod
+- BetterF3
+- Inventory Profiles Next
+    - Fabric Language Kotlin
+    - libIPN
+- Mouse Tweaks
+- Simple Discord RPC
+    - CraterLib
+- Xaero's World Map
+    - Xaero's Minimap (Fair-play Edition)
+- AppleSkin
+- Default Options
+    - Balm
+- Dynamic FPS
+- EMI
+- EMI Enchanting
+    - EMI
+    - Fzzy Config
+- EMI Loot
+    - EMI
+    - Fzzy Config
+- Entity Model Features
+- Entity Texture Features
+- Entity Culling
+- Indium
+- Litematica
+    - MaLiLib
+- Lithium
+- MiniHUD
+    - MaLiLib
+- Mod Menu
+- Sodium
+- Sodium Extra
+    - Sodium
+- Simple Voice Chat
