@@ -38,3 +38,4 @@
 - Simple Voice Chat
 - Chest Tracker
     -YetAnotherConfigLib
+- CIT Resewn
